@@ -3,4 +3,4 @@
 ## A simple 2D game made using Unity
 ## Available on WebGL and Windows Application
 
-** Download the Windows Application in the Downloads folder **
+### Download the Windows Application in the Downloads folder
