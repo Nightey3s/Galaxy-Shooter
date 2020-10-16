@@ -11,6 +11,6 @@
 "backgroundColor": "#000000",
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
-"multithreading": false,
+"multithreading": true,
 "unityVersion": "2019.2.14f1"
 }
